@@ -2,7 +2,6 @@
 <html>
 <head>
 <link rel="stylesheet" type=text/css href="h3.css">
-<font color=#71BBD9>
 	
 </head>
 <title>MARTHA's BaE's</title>
